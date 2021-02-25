@@ -4,6 +4,7 @@ BABYNUTRITIONALSTATUS - is aplication for calculate Body Mass Index (BMI) and St
 </p>
 
 ## PREVIEW
+![Red and White Modern Corporate Sports Youtube Outro](https://user-images.githubusercontent.com/19890311/109208683-34aa8400-77dd-11eb-8888-1f338c481ec1.png)
 
 
 ## HOW TO USE?
